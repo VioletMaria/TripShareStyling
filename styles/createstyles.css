@@ -47,7 +47,7 @@ font-size: 50px;
   h2 {
     font-family: 'Josefin Sans', sans-serif;
     /* font-family: 'Nanum Pen Script', cursive; */
-    padding-left: 20px;
+    padding:10px 20px;
     font-weight: 300;
     font-size: 33px;
     }
@@ -61,6 +61,13 @@ font-size: 50px;
 #GFG {
   color:black;
   text-decoration: none;
+}
+
+#big {
+    color:black;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
 }
 
 label {
